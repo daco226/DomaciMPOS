@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DomaciApp</string>
+    <string name="firebase_web_client_id" translatable="false">AIzaSyBjueAfRyZwRGWoZhXR1o2TArHTXDeTt78</string>
+</resources>
