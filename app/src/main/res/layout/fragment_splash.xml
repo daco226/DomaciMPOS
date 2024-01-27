@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.SplashFragment"
+    android:background="@color/golubije_plava">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_marginTop="200sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BIBLIOTEKA"
+        android:textColor="@color/tamno_plava"
+        android:textStyle="italic|bold"
+
+        android:gravity="center_horizontal"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60sp"
+        android:layout_marginTop="300sp"
+        android:layout_marginRight="40sp"
+        android:src="@drawable/oip_removebg_preview" />
+
+</FrameLayout>

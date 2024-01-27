@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="crna">#000000</color>
+    <color name="bela">#FFFFFFFF</color>
+    <color name="tamno_plava">#151E3D</color>
+    <color name="golubije_plava">#757C88</color>
+    <color name="nebo_plava">#63C5DA</color>
+    <color name="ljubicasto_roze">#856088</color>
+    <color name="tamno_ljubicasta">#392A48</color>
+</resources>
